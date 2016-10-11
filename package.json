@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/fa7ad/nato-alpha#readme",
   "dependencies": {
+    "belle": "^2.0.8",
     "react": "^15.3.2",
     "react-dom": "^15.3.2"
   },

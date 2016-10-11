@@ -1,0 +1,36 @@
+.mainContainer {
+  display: flex;
+  flex: 1;
+  background-color: #eee;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.rootBox {
+  padding: 5px 15px;
+  max-width: 85%;
+}
+
+.outputCard {
+  white-space: pre-line;
+  word-wrap: break-word;
+}
+
+@media (min-width: 480px) {
+  .rootBox {
+    min-width: 420px;
+  }
+}
+@media (min-width: 640px) {
+  .rootBox {
+    min-width: 620px;
+  }
+}
+
+@media (min-width: 960px) {
+  .rootBox {
+    min-width: 800px;
+  }
+}

@@ -29,7 +29,7 @@
   "dependencies": {
     "belle": "^2.0.8",
     "react": "^16.8.6",
-    "react-dom": "^15.3.2"
+    "react-dom": "^16.8.6"
   },
   "devDependencies": {
     "autoprefixer": "^9.6.0",
